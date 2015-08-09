@@ -14,8 +14,8 @@ prog3: $(OBJECTS) prog3.o
 	g++ --std=c++0x $^ -o prog3
 prog4: $(OBJECTS) prog4.o
 	g++ --std=c++0x $^ -lncurses -o prog4
-prog4alt: $(OBJECTS) prog4.o
-	g++ --std=c++0x $^ -lncurses -o prog4alt
+game: $(OBJECTS) prog4.o
+	g++ --std=c++0x $^ -lncurses -o game
 
 %.o: %.cpp $(HEADERS)
 	g++ --std=c++0x -c $< -o $@
