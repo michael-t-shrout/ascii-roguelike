@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  
+  <Player>
+    <name>p1</name>
+    <health>50</health>
+    <symbol>@</symbol>
+    <experience>0</experience>
+    <level>1</level>
+  </Player>
+  
+  <Consumable>
+    <name>Stairwell keys   .</name>
+    <weight>0</weight>
+    <symbol>^</symbol>
+    <value>10</value>
+    <quantity>1</quantity>
+  </Consumable>
+
+  <Creature>
+    <name>Drunk Punk</name>
+    <health>10</health>
+    <symbol>p</symbol>
+    <hostile>false</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Street Thug</name>
+    <health>20</health>
+    <symbol>T</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Bum Rusher</name>
+    <health>25</health>
+    <symbol>R</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Tough-Guy</name>
+    <health>40</health>
+    <symbol>G</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Big Boy</name>
+    <health>50</health>
+    <symbol>B</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Shotgunner</name>
+    <health>500</health>
+    <symbol>S</symbol>
+    <hostile>false</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Mister X</name>
+    <health>10000</health>
+    <symbol>X</symbol>
+    <hostile>false</hostile>
+  </Creature>
+  
+
+
+  <Weapon>
+    <name>Brass Knuckles   .</name>
+    <weight>5</weight>
+    <value>100</value>
+    <symbol>!</symbol>
+    <attackBonus>10</attackBonus>
+    <weaponType>1</weaponType>
+  </Weapon>
+
+  <Weapon>
+    <name>Tire Iron        .</name>
+    <weight>7</weight>
+    <value>50</value>
+    <symbol>!</symbol>
+    <attackBonus>11</attackBonus>
+    <weaponType>2</weaponType>
+  </Weapon>
+
+  <Weapon>
+    <name>Crow Bar         .</name>
+    <weight>9</weight>
+    <value>50</value>
+    <symbol>!</symbol>
+    <attackBonus>12</attackBonus>
+    <weaponType>2</weaponType>
+  </Weapon>
+
+  <Weapon>
+    <name>Nunchuks         .</name>
+    <weight>7</weight>
+    <value>50</value>
+    <symbol>!</symbol>
+    <attackBonus>13</attackBonus>
+    <weaponType>4</weaponType>
+  </Weapon>
+
+  <Weapon>
+    <name>Katana           .</name>
+    <weight>7</weight>
+    <value>75</value>
+    <symbol>!</symbol>
+    <attackBonus>14</attackBonus>
+    <weaponType>4</weaponType>
+  </Weapon>
+
+  <Weapon>
+    <name>Dbl Brl Shotty   .</name>
+    <weight>10</weight>
+    <value>100</value>
+    <symbol>!</symbol>
+    <attackBonus>100</attackBonus>
+    <weaponType>3</weaponType>
+  </Weapon>
+
+  <Armor>
+    <name>Gnarly T-Shirt   .</name>
+    <weight>1</weight>
+    <value>10</value>
+    <symbol>?</symbol>
+    <defenseBonus>1</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>Studded Vest     .</name>
+    <weight>5</weight>
+    <value>20</value>
+    <symbol>?</symbol>
+    <defenseBonus>2</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>Biker Jacket     .</name>
+    <weight>7</weight>
+    <value>50</value>
+    <symbol>?</symbol>
+    <defenseBonus>3</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>Bulletproof Vest .</name>
+    <weight>9</weight>
+    <value>10</value>
+    <symbol>?</symbol>
+    <defenseBonus>4</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>BatSuit          .</name>
+    <weight>12</weight>
+    <value>50</value>
+    <symbol>?</symbol>
+    <defenseBonus>5</defenseBonus>
+  </Armor>
+
+  <Consumable>
+    <name>The Sauce        .</name>
+    <weight>1</weight>
+    <value>5</value>
+    <symbol>+</symbol>
+    <quantity>1</quantity>
+  </Consumable>
+
+  <Consumable>
+    <name>An Energy Drink  .</name>
+    <weight>3</weight>
+    <value>5</value>
+    <symbol>-</symbol>
+    <quantity>1</quantity>
+  </Consumable>
+
+  <Consumable>
+    <name>Some Shells      .</name>
+    <weight>2</weight>
+    <value>5</value>
+    <symbol>$</symbol>
+    <quantity>2</quantity>
+  </Consumable>
+
+
+
+</World>
+
+
+

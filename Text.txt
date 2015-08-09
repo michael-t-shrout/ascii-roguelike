@@ -1,0 +1,36 @@
+Tough-Guy WareHouse
+
+How to Play:
+Movement:		[8]				Up
+			 [4]   [6]	->	Left  Right
+			    [2]			   Down
+
+Pick-up Items/
+Go up/down stairs(if unlocked):   [5]
+
+Manage Inventory: [9] Cycles between		Weapons -> Armors -> Consumables
+				  [7] Cycles between		Equipped Weapons/Armor and currently usable consumable,
+											depending on which one you have selected using [9].
+											The Weapon/Armor that is displaying is the one that is equipped.
+				  [0] Use/Sell				Sells Weapon/Armor or Uses Item, depending on selection via [9] and [7]
+
+				  Hints:
+					-The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory
+					and then press [0] to use it while standing on the stairs up [>] tile.
+					-You can build up a chain which increases damage dealt by killing bad guys in succession 
+					within a set number of turns. You get more turns to build a chain as you gain levels.
+					-The log displays the 4 most recent events with the newest on top. New events are denoted with "->" 
+					Item uses:
+						The Sauce	 -gives 15 * player level health
+						Energy drink -increase chain by 2 and resets number of turns before losing chain
+						Stairwell Key-unlocks next floor
+						Some Shells  -do nothing yet, still working on a shotgun that will let you use a projectile
+
+					I'm still working on:
+							-adding a shotgun which you will get on a non-randomly-generated floor midway through the game
+							-adding a boss (which will require the shotgun) with his own boss-specific ai
+							-adding a mid-floor shop to spend your $ on items
+							-adding more story/attack panels. The story panels will display between levels.
+							 
+
+
