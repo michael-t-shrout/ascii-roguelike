@@ -1,16 +1,17 @@
 Ascii Roguelike - Toughguy Warehouse
 ========
 UKY CS216 Programming Assignment
-To run:
+## To run:
 1. Clone the repo. Because of lncurses dependency, must be run in linux environment
 2. type 'make game' to make the exe, and './game' to run.
  
 
-How to Play:
+### How to Play:
 
-Movement:		    [8]			    Up
-			 [4]   [6]	->	Left  Right
-			    [2]			   Down
+** Movement: **		    
+[8]			    Up
+[4],   [6]		Left,  Right
+[2]			   Down
 
 Pick-up Items/
 Go up/down stairs(if unlocked):   [5]
@@ -22,7 +23,7 @@ Manage Inventory: [9] or [d] Cycles between		Weapons -> Armors -> Consumables
 	          [0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via [9] and [7]
 
 Quit Game	  [q]
-Hints:
+** Hints: **
 		  -The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory
 		and then press [0] to use it while standing on the stairs up [>] tile.
 		-You can build up a chain which increases damage dealt by killing bad guys in succession 
