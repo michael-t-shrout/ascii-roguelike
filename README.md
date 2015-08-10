@@ -1,11 +1,11 @@
 Ascii Roguelike "Tough-guy Warehouse"
 ========
-## Screenshots
+### Screenshots
 ![](http://i.imgur.com/fJ0G5wY.png)
 ![](http://i.imgur.com/YWD92Rp.png)
 ![](http://i.imgur.com/vnWQEC2.png)
 ---
-## To run:
+### To run:
 1. Clone the repo. Because of lncurses dependency, must be run in linux environment
 2. type 'make game' to make the exe, and './game' to run.
  
@@ -41,7 +41,7 @@ Quit Game	  				[q]
 	Some Shells  	 -shoot shotty, after using you will be asked to pick a direction to shoot
 ```
 ---
-**Hints**
+### Hints
 * The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory and then press [0] to use it while standing on the stairs up [>] tile.
 * You can build up a chain which increases damage dealt by killing bad guys in succession within a set number of turns. You get more turns to build a chain as you gain levels.
 * The log displays the 4 most recent events with the newest on top. New events are denoted with "->"
@@ -49,7 +49,7 @@ Quit Game	  				[q]
 * You have to use the shotty to kill the boss on floor 8, after he dies, the path will open up to the exit/endgame.
 * <b>If you want to go straight to the boss enter GOTOBOSS when choosing your name</b>
 ---
-**Notes**
+### Notes
 A semester-long project for CS 216 course at University of Kentucky. Consisting of four projects that built upon each other, the source files for the individual components are also included (prog1, prog2, prog3, etc...). 
 
 2013 Michael Tyler Shrout
