@@ -38,15 +38,11 @@ Quit Game	  				[q]
 ```
 ---
 **Hints**
-		*The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory
-		and then press [0] to use it while standing on the stairs up [>] tile.
-		*You can build up a chain which increases damage dealt by killing bad guys in succession 
-		within a set number of turns. You get more turns to build a chain as you gain levels.
-		*The log displays the 4 most recent events with the newest on top. New events are denoted with "->"
-		*You'll get the shotty on floor 4 after you kill all the thugs, a path will open up to the item,
-		and the key to the exit is underneath the shotty.
-		*You have to use the shotty to kill the boss on floor 8, after he dies, the path will open up to
-		the exit/endgame.
-		*!!! If you want to go straight to the boss enter GOTOBOSS when choosing your name. !!! 
+*The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory and then press [0] to use it while standing on the stairs up [>] tile.
+*You can build up a chain which increases damage dealt by killing bad guys in succession within a set number of turns. You get more turns to build a chain as you gain levels.
+*The log displays the 4 most recent events with the newest on top. New events are denoted with "->"
+*You'll get the shotty on floor 4 after you kill all the thugs, a path will open up to the item, and the key to the exit is underneath the shotty.
+*You have to use the shotty to kill the boss on floor 8, after he dies, the path will open up to the exit/endgame.
+*<b>If you want to go straight to the boss enter GOTOBOSS when choosing your name</b>
 		
 
