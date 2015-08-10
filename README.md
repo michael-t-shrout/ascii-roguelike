@@ -24,7 +24,7 @@ Manage Inventory:
 [7] or [a] Cycles between	Equipped Weapons/Armor and currently usable consumable,
 							depending on which one you have selected using [9].
 							The Weapon/Armor that is displaying is the one that is equipped.
-[0] or [s] Use/Sell				Sells Weapon/Armor or Uses Item, depending on selection via 
+[0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via 
 							[9] and	[7]
 
 Quit Game	  				[q]
