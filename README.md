@@ -9,15 +9,14 @@ UKY CS216 Programming Assignment
 ### How to Play:
 
 **Movement**
-
-'''
+```
     [8]			    Up
 [4]     [6]	       Left    Right
     [2]			   Down
-'''
+```
 
 **Controls**
-'''
+```
 [5] 		  Pick-up Items/Go up/down stairs(if unlocked)
 
 Manage Inventory: [9] or [d] Cycles between		Weapons -> Armors -> Consumables
@@ -27,14 +26,14 @@ Manage Inventory: [9] or [d] Cycles between		Weapons -> Armors -> Consumables
 	          [0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via [9] and 								[7]
 
 Quit Game	  [q]
-'''
+```
 **Item uses**
-'''
+```
 	The Sauce	 -gives 15 * player level health
 	Energy drink 	 -increase chain by 2 and resets number of turns before losing chain
 	Stairwell Key	 -unlocks next floor
 	Some Shells  	 -shoot shotty, after using you will be asked to pick a direction to shoot
-'''
+```
 ---
 **Hints**
 		*The last bad guy on each floor will drop a key[^]. You have to select that item in your inventory
