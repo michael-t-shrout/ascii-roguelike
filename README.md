@@ -48,6 +48,7 @@ Quit Game	  				[q]
 * You'll get the shotty on floor 4 after you kill all the thugs, a path will open up to the item, and the key to the exit is underneath the shotty.
 * You have to use the shotty to kill the boss on floor 8, after he dies, the path will open up to the exit/endgame.
 * If you want to go straight to the boss enter GOTOBOSS when choosing your name
+
 ---
 ### Notes
 A semester-long project for CS 216 course at University of Kentucky. Consisting of four projects that built upon each other, the source files for the individual components are also included (prog1, prog2, prog3, etc...). 
