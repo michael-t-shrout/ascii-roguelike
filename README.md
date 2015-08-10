@@ -1,6 +1,12 @@
 Ascii Roguelike - Toughguy Warehouse
 ========
 UKY CS216 Programming Assignment
+---
+## Screenshots
+![](http://i.imgur.com/fJ0G5wY.png)
+![](http://i.imgur.com/YWD92Rp.png)
+![](http://i.imgur.com/vnWQEC2.png)
+---
 ## To run:
 1. Clone the repo. Because of lncurses dependency, must be run in linux environment
 2. type 'make game' to make the exe, and './game' to run.
