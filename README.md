@@ -9,11 +9,11 @@ UKY CS216 Programming Assignment
 ### How to Play:
 
 **Movement**
-'''
+;;;
     [8]			    Up
 [4]     [6]	       Left    Right
     [2]			   Down
-'''
+;;;
 **Controls**
 '''
 [5] 		  Pick-up Items/Go up/down stairs(if unlocked)
