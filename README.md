@@ -19,11 +19,12 @@ UKY CS216 Programming Assignment
 ```
 [5] 		  Pick-up Items/Go up/down stairs(if unlocked)
 
-Manage Inventory: [9] or [d] Cycles between		Weapons -> Armors -> Consumables
-		  [7] or [a] Cycles between		Equipped Weapons/Armor and currently usable consumable,
-							depending on which one you have selected using [9].
-							The Weapon/Armor that is displaying is the one that is equipped.
-	          [0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via [9] and 								[7]
+Manage Inventory: 
+[9] or [d] Cycles between		Weapons -> Armors -> Consumables
+[7] or [a] Cycles between		Equipped Weapons/Armor and currently usable consumable,
+					depending on which one you have selected using [9].
+					The Weapon/Armor that is displaying is the one that is equipped.
+[0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via [9] and 								[7]
 
 Quit Game	  [q]
 ```
