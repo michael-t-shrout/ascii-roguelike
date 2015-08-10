@@ -10,9 +10,9 @@ UKY CS216 Programming Assignment
 
 **Movement**
 ```
-    [8]				Up
+    [8]					Up
 [4]     [6]	       Left    Right
-    [2]				Down
+    [2]					Down
 ```
 
 **Controls**
@@ -22,12 +22,12 @@ UKY CS216 Programming Assignment
 Manage Inventory: 
 [9] or [d] Cycles between		Weapons -> Armors -> Consumables
 [7] or [a] Cycles between		Equipped Weapons/Armor and currently usable consumable,
-					depending on which one you have selected using [9].
-					The Weapon/Armor that is displaying is the one that is equipped.
+						depending on which one you have selected using [9].
+						The Weapon/Armor that is displaying is the one that is equipped.
 [0] or [s] Use/Sell			Sells Weapon/Armor or Uses Item, depending on selection via 
-					[9] and	[7]
+						[9] and	[7]
 
-Quit Game	  [q]
+Quit Game	  			[q]
 ```
 **Item uses**
 ```
